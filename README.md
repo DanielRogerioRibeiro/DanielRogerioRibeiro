@@ -8,8 +8,18 @@
     <img height="50" width="60"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />    
 </div>
 
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielrogerioribeiro)](https://git.io/streak-stats)
 
+    
+ 🌱 I’m currently learning:
+ <div style="display: inline_block"><br>
+      <img height="80" width="90"  src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
+ </div>
+    
+    
+    
 <h3 align="left">Let´s Connect:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/danielrogerioribeiro/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
