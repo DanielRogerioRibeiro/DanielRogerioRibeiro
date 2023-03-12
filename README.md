@@ -13,10 +13,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielrogerioribeiro)](https://git.io/streak-stats)
 
     
- 🌱 I’m currently learning:
- <div style="display: inline_block"><br>
-      <img height="80" width="90"  src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
- </div>
+ 🌱 I’m currently learning: Django
+ 
     
     
     
@@ -54,7 +52,9 @@
 **DanielRogerioRibeiro/DanielRogerioRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<div style="display: inline_block"><br>
+      <img height="80" width="90"  src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
+ </div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
