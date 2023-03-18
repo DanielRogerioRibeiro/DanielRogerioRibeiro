@@ -8,9 +8,9 @@
     <img height="50" width="60"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />    
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrogerioribeiro&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielrogerioribeiro)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielrogerioribeiro&show_icons=true&theme=tokyonight)
 
     
  🌱 I’m currently learning: Django
@@ -63,4 +63,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielrogerioribeiro)](https://git.io/streak-stats)
+
+temas
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
 -->
