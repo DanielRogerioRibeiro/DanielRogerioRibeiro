@@ -1,37 +1,46 @@
 # Daniel Rogerio Ribeiro
 
+<h2> 🔭 I’m currently working on:</h2>
 
-🔭 I’m currently working on:
 <div style="display: inline_block"><br>
     <img height="50" width="60"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
     <img height="50" width="60"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" />
     <img height="50" width="60"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />    
 </div>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danielrogerioribeiro&theme=solarized-light)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielrogerioribeiro&show_icons=true&theme=transparente)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrogerioribeiro&show_icons=true&theme=transparente)
     
+#
+<div align="center">
+    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danielrogerioribeiro&theme=solarized-light)](https://git.io/streak-stats)    
+    
+</div>
 
- 
- 🌱 I’m currently learning: Django
- 
+#
+<div align="center"> 
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danielrogerioribeiro&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=danielrogerioribeiro&show_icons=true&theme=transparente" width="49%"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrogerioribeiro&layout=compact&theme=transparente&langs_count=4" width="49%"></img>
+
+</div>
+
+#
+
+<h2>🌱 I’m currently learning: 📖</h2>
+
+<div style="display: inline_block"><br>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
     
-    
-    
-<h3 align="left">Let´s Connect:</h3>
+</div>
+
+#
+
+<h2 align="left">📥 Let´s Connect: 📫</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/danielrogerioribeiro/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discord.com/channels/@Daniel Ribeiro#7092" rarget="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-
-
-
-
-
-
+<a href="mailto:danielrogerioribeiro.dev@gmail.com" rarget="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 
@@ -74,7 +83,8 @@ Here are some ideas to get you started:
 temas
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
 
-   
+CONTATOS
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
 natalia
     
