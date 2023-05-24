@@ -23,7 +23,6 @@
 #
 <div align="center"> 
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danielrogerioribeiro&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <img src="https://github-readme-stats.vercel.app/api?username=danielrogerioribeiro&show_icons=true&theme=transparente" width="49%"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrogerioribeiro&layout=compact&theme=transparente&langs_count=4" width="49%"></img>
